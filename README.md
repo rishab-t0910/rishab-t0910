@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @rishab-t0910, a year 2 Mathematics Major!
-- 👀 I’m interested in data, analysing data, and finding patterns in the world. 
+- Hello and welcome, I’m Rishab 👋
+- 👀 I’m interested in analysing data, finding patterns in the world, and coming up with solutions to problems. 
 - 🌱 I’m currently learning openpyxl, and python in general. 
 - 💞️ I’m looking to collaborate on anything if you're open to it!
 - 📫 How to reach me: rishab.t0910@gmail.com
+- 💬 We can always chat about sports, maths or anything in general. 
 
 <!---
 rishab-t0910/rishab-t0910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
